@@ -1,0 +1,14 @@
+Hi!
+
+This is my CSE15 Lab Report 1! My name is Yi-Chan Chiu, and everyone can call me Frankie!
+Today, I am going to teach you how to `Remote Access and FileSystem`!
+
+# How to Remote Access and FileSystem
+--------------------------------------
+> Step 1 : ** Find Out Your Specific Account and Change Password**
+Go to [Link](https://sdacs.ucsd.edu/~icc/index.php), and there are `Username and Student ID` to put. After putting those into the blank, click submit!
+You will see there are specific accounts listed on the screen. See the specific account username for cse15 (It's like cs15lsp23xx) and click it. The website will
+appear the link to let the student change the password. Remember to use the 'username' of the **specific** acount. Once you change the password, the website will
+give the confirm page for changing sucessfully. And your specific account and password are setting up now!
+
+> Step 2 :
