@@ -19,5 +19,9 @@ blank, click submit! You will see there are specific accounts listed on the scre
 
 <img width="1291" alt="截圖 2023-04-06 20 24 15" src="https://user-images.githubusercontent.com/130111605/230534929-07a4c4da-dfeb-4f82-ab0e-7c7b84d0e7ce.png">
 
+***Click on the Global Password Change Tool to rest the password**
+
+<img width="1274" alt="截圖 2023-04-06 20 27 27" src="https://user-images.githubusercontent.com/130111605/230535109-fe90bbc6-13ea-4872-acb4-b3c28762d7cb.png">
+
 
 > Step 2 :
