@@ -26,7 +26,7 @@ blank, click submit! You will see there are specific accounts listed on the scre
 ***Follow the instruction the website given and make sure the second picture of the username is the specific account of cse15L course!**
 
 <img width="1157" alt="截圖 2023-04-06 20 29 21" src="https://user-images.githubusercontent.com/130111605/230535245-47f4a4ba-d3a7-4087-87da-819b6207db57.png">
---------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
 <img width="1161" alt="截圖 2023-04-06 20 30 13" src="https://user-images.githubusercontent.com/130111605/230535293-76b14a2b-b735-43fc-9705-4375ce57f090.png">
 
 
