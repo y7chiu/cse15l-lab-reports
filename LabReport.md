@@ -1,10 +1,13 @@
+# How to Remote Access and FileSystem
+
+--------------------------------------
+
 Hi!
 
 This is my CSE15 Lab Report 1! My name is Yi-Chan Chiu, and everyone can call me Frankie!
 
 Today, I am going to teach you how to `Remote Access and FileSystem`!
 
-# How to Remote Access and FileSystem
 --------------------------------------
 > Step 1 : Find Out Your Specific Account and Change Password
 
