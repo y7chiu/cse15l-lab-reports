@@ -29,6 +29,8 @@ blank, click submit! You will see there are specific accounts listed on the scre
 -------------------------------------------------------------------------------------------------------------------------------------------
 <img width="1161" alt="截圖 2023-04-06 20 30 13" src="https://user-images.githubusercontent.com/130111605/230535293-76b14a2b-b735-43fc-9705-4375ce57f090.png">
 
+Once the password changed successfully, there are the comfirmation page that tells you account setting finished!
+
 
 
 > Step 2 :
