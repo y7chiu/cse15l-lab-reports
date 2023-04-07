@@ -31,7 +31,7 @@ blank, click submit! You will see there are specific accounts listed on the scre
 
 Once the password changed successfully, there are the comfirmation page that tells you account setting finished!
 
-
+--------------------------------------
 > Step 2 : Install Visual Studio Code
 
 
