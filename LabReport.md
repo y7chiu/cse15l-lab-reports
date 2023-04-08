@@ -43,6 +43,9 @@ Once the password changed successfully, there are the comfirmation page that tel
 
 Go to visual studio website [visual studio website](https://code.visualstudio.com/download) to install the vscode. Select the version of your computer operating system (Mac, Windows, or Linux) and follow the further installing instructions. Once you installed, click on the visual studio, and you will see the screen as below. That's mean you installed successfully!
 
+
 <img width="1429" alt="截圖 2023-04-07 19 12 20" src="https://user-images.githubusercontent.com/130111605/230698809-d931cfc2-0314-4b15-bb71-2c2efbcd62c2.png">
 
+--------------------------------------
 
+> Step 3 :
