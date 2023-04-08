@@ -64,7 +64,8 @@ After installing Visual Studio Code, we are going to use terminal to login i the
 > Step 4 : Trying Some Commands
 When you see there is the similar command like `[y7chiu@ieng6-201]:~:12$`, try to operate some commands (Type behind the `$` symbol). There are some commands and features you can try, such as `cd`, `ls`, or `cp`. Please try some of the commands and see how they work!
 
-***Here are some commands you can try**
+***Here are some commands you can try: **
+
 ```
 - cd ~
 - cd
@@ -75,4 +76,4 @@ When you see there is the similar command like `[y7chiu@ieng6-201]:~:12$`, try t
 - cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 ```
 
-***The result will look like below's pictures: **
+***The result will look like below's pictures**
