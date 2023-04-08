@@ -90,5 +90,7 @@ Once you finish typing the commands and want to exit the account, press `control
 
 <img width="399" alt="截圖 2023-04-07 20 32 29" src="https://user-images.githubusercontent.com/130111605/230701378-59ea0589-87a8-46e9-be16-b48620c72f21.png">
 
-
+--------------------------------------
+This is the Whole instructions for teaching how to Remote Access and FileSystem. Hope the instructions are clear and easy to follow!
+Thank you everyone! This is Yi-Chan(Frankie) Chiu and see you guys next time!
 
