@@ -62,4 +62,15 @@ After installing Visual Studio Code, we are going to use terminal to login i the
 --------------------------------------
 
 > Step 4 : Trying Some Commands
-When you see there is the similar command like `[y7chiu@ieng6-201]:~:12$`, try to operate some commands (Type behind the `$` symbol). There is the link for Markdown
+When you see there is the similar command like `[y7chiu@ieng6-201]:~:12$`, try to operate some commands (Type behind the `$` symbol). There are some commands and features you can try, such as `cd`, `ls`, or `cp`. Please try some of the commands and see how they work!
+
+***Here are some commands you can try**
+```
+cd ~
+cd
+ls -lat
+ls -a
+ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username
+cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+```
