@@ -56,4 +56,8 @@ After installing Visual Studio Code, we are going to use terminal to login i the
 <img width="855" alt="截圖 2023-04-07 19 56 26" src="https://user-images.githubusercontent.com/130111605/230700315-14bdfe6a-2c5b-4854-9731-1915af962a3c.png">
 
 
+***You will see the screen as this after logining the remotely connecting successfully**
+<img width="868" alt="截圖 2023-04-07 19 56 38" src="https://user-images.githubusercontent.com/130111605/230700407-5257629a-9be5-40bc-bbc6-9c3820126000.png">
+
+
 
