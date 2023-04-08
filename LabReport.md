@@ -77,3 +77,18 @@ When you see there is the similar command like `[y7chiu@ieng6-201]:~:12$`, try t
 ```
 
 ***The result will look like below's pictures**
+
+<img width="514" alt="截圖 2023-04-07 20 27 56" src="https://user-images.githubusercontent.com/130111605/230701275-d3fdefad-abd8-4028-9dc3-0153c55b7ff9.png">
+
+
+<img width="818" alt="截圖 2023-04-07 20 28 41" src="https://user-images.githubusercontent.com/130111605/230701285-78580b27-8a17-4467-ab7a-2d0ef2d4699c.png">
+
+<img width="689" alt="截圖 2023-04-07 20 29 08" src="https://user-images.githubusercontent.com/130111605/230701287-422a4a8c-2c97-4b32-be55-67dd5e7250fc.png">
+
+
+Once you finish typing the commands and want to exit the account, press `**control + D**`, and then the terminal will log out the account and return back to your private computer operating terminal. As below:
+
+<img width="399" alt="截圖 2023-04-07 20 32 29" src="https://user-images.githubusercontent.com/130111605/230701378-59ea0589-87a8-46e9-be16-b48620c72f21.png">
+
+
+
