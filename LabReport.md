@@ -51,3 +51,5 @@ Go to visual studio website [visual studio website](https://code.visualstudio.co
 > Step 3 : Remotely Connecting
 
 After installing Visual Studio Code, we are going to use terminal to login i the remotely connecting. Open the new terminal in the visual studio code (There is the place called "Terminal", and there is `New Terminal` to click), and student can start login the remotely connecting by using their specific course account (If student have the trouble to login by using the specific course account, please use the original username (the username in front of your UCSD email) and password to login).
+
+
