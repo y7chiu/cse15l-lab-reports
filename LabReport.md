@@ -41,4 +41,5 @@ Once the password changed successfully, there are the comfirmation page that tel
 
 > Step 2 : Install Visual Studio Code 
 
+Go to visual studio website [visual studio website](https://code.visualstudio.com/download) to install the vscode.
 
