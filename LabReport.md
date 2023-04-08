@@ -92,7 +92,10 @@ Once you finish typing the commands and want to exit the account, press `control
 
 --------------------------------------
 This is the Whole instructions for teaching how to Remote Access and FileSystem. Hope the instructions are clear and easy to follow!
+
 Thank you everyone! The report is ended.
+
 This is Yi-Chan(Frankie) Chiu 
+
 see you guys next time!
 
