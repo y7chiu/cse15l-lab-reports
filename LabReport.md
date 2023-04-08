@@ -48,4 +48,4 @@ Go to visual studio website [visual studio website](https://code.visualstudio.co
 
 --------------------------------------
 
-> Step 3 :
+> Step 3 : Remotely Connecting
