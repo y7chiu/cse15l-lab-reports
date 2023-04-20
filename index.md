@@ -92,6 +92,7 @@ When you see there is the similar command like `[y7chiu@ieng6-201]:~:12$`, try t
 ***The result will look like below's pictures**
 
 In this picture, we can see that in path "lat" has 100 files access.
+
 <img width="514" alt="截圖 2023-04-07 20 27 56" src="https://user-images.githubusercontent.com/130111605/230701275-d3fdefad-abd8-4028-9dc3-0153c55b7ff9.png">
 
 
