@@ -90,16 +90,16 @@ When you see there is the similar command like `[y7chiu@ieng6-201]:~:12$`, try t
 ```
 
 ***The result will look like below's pictures**
-
-<img width="514" alt="截圖 2023-04-07 20 27 56" src="https://user-images.githubusercontent.com/130111605/230701275-d3fdefad-abd8-4028-9dc3-0153c55b7ff9.png">
 In this picture, we can see that in path "lat" has 100 files access.
+<img width="514" alt="截圖 2023-04-07 20 27 56" src="https://user-images.githubusercontent.com/130111605/230701275-d3fdefad-abd8-4028-9dc3-0153c55b7ff9.png">
 
 
-<img width="818" alt="截圖 2023-04-07 20 28 41" src="https://user-images.githubusercontent.com/130111605/230701285-78580b27-8a17-4467-ab7a-2d0ef2d4699c.png">
 In this picture, we can see that in path "a" to see the inside files.
+<img width="818" alt="截圖 2023-04-07 20 28 41" src="https://user-images.githubusercontent.com/130111605/230701285-78580b27-8a17-4467-ab7a-2d0ef2d4699c.png">
 
-<img width="689" alt="截圖 2023-04-07 20 29 08" src="https://user-images.githubusercontent.com/130111605/230701287-422a4a8c-2c97-4b32-be55-67dd5e7250fc.png">
+
 Print out the contents inside the file. In this example, it will print out "Hello!".
+<img width="689" alt="截圖 2023-04-07 20 29 08" src="https://user-images.githubusercontent.com/130111605/230701287-422a4a8c-2c97-4b32-be55-67dd5e7250fc.png">
 
 
 Once you finish typing the commands and want to exit the account, press `control + D`, and then the terminal will log out the account and return back to your private computer operating terminal. As below:
