@@ -67,13 +67,26 @@ When you see there is the similar command like `[y7chiu@ieng6-201]:~:12$`, try t
 ***Here are some commands you can try:**
 
 ```
-- cd ~ : "Change Directory" Switch the current working directory to the "home diretory", which is the directory where a user's files are stored.
-- cd : "Change Directory" Switch the current working directory.
-- ls -lat: The list used to list files and folders of the given path. FOr this, the given path is "lat".
-- ls -a :The list used to list files and folders of the given path. FOr this, the given path is "a".
+- cd ~ 
+: "Change Directory" Switch the current working directory to the "home diretory", which is the directory where a user's files are stored.
+
+- cd 
+: "Change Directory" Switch the current working directory.
+
+- ls -lat
+: The list used to list files and folders of the given path. For this, the given path is "lat".
+
+- ls -a
+: The list used to list files and folders of the given path. For this, the given path is "a".
+
 - ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username
+: The list used to list files and folders of the given path. For this, the given path is this directory.
+
 - cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-- cat /home/linux/ieng6/cs15lsp23/public/hello.txt : Print out the contents inside /home/linux/ieng6/cs15lsp23/public/hello.txt. 
+: copying files or directories from one location to another.
+
+- cat /home/linux/ieng6/cs15lsp23/public/hello.txt 
+: Print out the contents inside /home/linux/ieng6/cs15lsp23/public/hello.txt. 
 ```
 
 ***The result will look like below's pictures**
