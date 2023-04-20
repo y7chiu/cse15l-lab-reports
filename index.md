@@ -94,7 +94,7 @@ In this picture, we can see that in path "lat" has 100 files access.
 <img width="514" alt="截圖 2023-04-07 20 27 56" src="https://user-images.githubusercontent.com/130111605/230701275-d3fdefad-abd8-4028-9dc3-0153c55b7ff9.png">
 
 
-In this picture, we can see that in path "a" to see the inside files.
+In this picture, we can see that we can go in path "a" to see the inside files.
 <img width="818" alt="截圖 2023-04-07 20 28 41" src="https://user-images.githubusercontent.com/130111605/230701285-78580b27-8a17-4467-ab7a-2d0ef2d4699c.png">
 
 
